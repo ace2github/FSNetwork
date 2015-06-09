@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:FSNetwork"
+      name = "FSNetwork">
+      <FileRef
+         location = "group:FSCustomDef.h">
+      </FileRef>
+      <FileRef
+         location = "group:FSNetworkBase.h">
+      </FileRef>
+      <FileRef
+         location = "group:FSNetworkBase.m">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Example/FSNetworkDemo/FSNetworkDemo.xcodeproj">
+   </FileRef>
+</Workspace>
